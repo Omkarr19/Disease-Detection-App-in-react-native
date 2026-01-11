@@ -5,7 +5,7 @@ import { LinearGradient } from "expo-linear-gradient";
 import { BlurView } from "expo-blur";
 import { theme } from "../constants/theme";
 
-const API_KEY = "eShBfjm9LLMnYnwISmnvJ7zrArKyJwi4jugaQhtwtLKztbknRp"; // Your API Key
+const API_KEY = "eShBfjm9LLMnYnwISmnvJ7zrArKyJwi4jugaQhtwtL"; // Your API Key
 const HEALTH_ASSESSMENT_URL = "https://plant.id/api/v3/health_assessment?details=local_name,description,url,treatment,classification,common_names,cause";
 
 const { height } = Dimensions.get("window");
