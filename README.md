@@ -1,3 +1,5 @@
+#This is very simple Disease Detection App in react native Expo, I have used plant.id API, You can get free API with limited 100 credits. Replace your API Key and API URL in program. 
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
